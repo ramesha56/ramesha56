@@ -4,12 +4,15 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 
-<p align="left">
-  <img src="https://connectimark.com/wp-content/uploads/2024/10/ishyelow.gif" 
-       alt="gif"
-       style="width:60px; height:auto; margin-right:10px; vertical-align:middle;" />
-  <span style="font-size: 20px; font-weight: bold;">🌱 About Me</span>
-</p>
+## 📌 About Me  
+
+<div align="center">
+  <img src="https://github.com/yourusername.png" alt="Profile" width="200" style="border-radius: 50%;" />
+</div>
+
+
+
+---
 
 <ul>
   <li>🌱 I’m currently learning <b>FULL-STACK WEB DEVELOPMENT</b></li>
