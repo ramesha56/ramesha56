@@ -11,7 +11,7 @@
 
 ### 🌱 About Me
 - 🌱 I’m currently learning **FULL-STACK WEB DEVELOPMENT**  
-- 👨‍💻 All of my projects are available at [PixelPath](https://ramesha56.github.io/PixelPath/)  
+- 👨‍💻 All of my projects are available at [PixelPath](https://react-folio-mocha.vercel.app/)  
 - 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP, REACT, FLUTTER**  
 - 📫 Reach me at **Ramesha2203e@gmail.com**  
 - ⚡ Fun fact: **I'm a Good Developer 😎**  
