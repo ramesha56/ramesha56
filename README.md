@@ -4,17 +4,21 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 
-<p align="left"> <img src="https://connectimark.com/wp-content/uploads/2024/10/ishyelow.gif" /> </p>
----
+<p align="left">
+  <img src="https://connectimark.com/wp-content/uploads/2024/10/ishyelow.gif" 
+       alt="gif"
+       style="width:60px; height:auto; margin-right:10px; vertical-align:middle;" />
+  <span style="font-size: 20px; font-weight: bold;">🌱 About Me</span>
+</p>
 
-### 🌱 About Me
-- 🌱 I’m currently learning **FULL-STACK WEB DEVELOPMENT**  
-- 👨‍💻 All of my projects are available at [PixelPath](https://react-folio-mocha.vercel.app/)  
-- 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP, REACT, FLUTTER**  
-- 📫 Reach me at **Ramesha2203e@gmail.com**  
-- ⚡ Fun fact: **I'm a Good Developer 😎**  
+<ul>
+  <li>🌱 I’m currently learning <b>FULL-STACK WEB DEVELOPMENT</b></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://react-folio-mocha.vercel.app/">PixelPath</a></li>
+  <li>💬 Ask me about <b>HTML, CSS, JS, BOOTSTRAP, REACT, FLUTTER</b></li>
+  <li>📫 Reach me at <b>Ramesha2203e@gmail.com</b></li>
+  <li>⚡ Fun fact: <b>I'm a Good Developer 😎</b></li>
+</ul>
 
----
 
 ### 🌐 Connect with Me
 <p align="left">
