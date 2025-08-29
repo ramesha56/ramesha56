@@ -7,7 +7,7 @@
 ## 📌 About Me  
 
 <div align="center">
-  <img src="https://github.com/yourusername.png" alt="Profile" width="200" style="border-radius: 50%;" />
+  <img src="https://connectimark.com/wp-content/uploads/2024/10/ishyelow.gif" alt="Profile" width="200" style="border-radius: 50%;" />
 </div>
 
 
