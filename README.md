@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm ramesha56</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/8cOxX1LONZpjpqlRxR/giphy.gif">
 
-#### <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramesha56&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
 <p align="left"> <img src="https://connectimark.com/wp-content/uploads/2024/10/ishyelow.gif" /> </p>
 ---
 
